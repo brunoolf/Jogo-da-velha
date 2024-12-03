@@ -50,4 +50,5 @@ O projeto foi organizado em diferentes classes para promover a modularidade:
 - [ ] Suporte a partidas online (multiplayer).
 </br>
 </br>
+
 ### Desenvolvido por Bruno
