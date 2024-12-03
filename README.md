@@ -2,19 +2,16 @@
 Este é um projeto modularizado do clássico Jogo da Velha (Tic-Tac-Toe), desenvolvido em Java. Ele aplica princípios de boas práticas de programação, como separação de responsabilidades, encapsulamento e padrões de design. O objetivo do projeto é demonstrar a evolução de um sistema monolítico simples para uma aplicação mais organizada e escalável.
 
 # Índice
-- Visão Geral
-- Tecnologias Utilizadas
-- Estrutura do Projeto
-- Funcionalidades
-- Como Executar
-- Próximos Passos
-- Contribuições
-- Licença
+- Visão Geral(#visão-geral)
+- Tecnologias Utilizadas(#tecnologias-utilizadas)
+- Estrutura do Projeto(#estrutura-do-projeto)
+- Funcionalidades(#funcionalidades)
+- Próximos Passos(#próximos-passos)
 
 # Visão Geral
 O Jogo da Velha é um jogo de tabuleiro clássico para dois jogadores. Este projeto busca demonstrar como um sistema inicialmente monolítico pode ser transformado em uma aplicação modular e bem estruturada.
 
-## Objetivos do Projeto
+### Objetivos do Projeto
 1. Organizar o código em classes e responsabilidades claras.
 2. Facilitar a manutenção e extensibilidade do projeto.
 3. Criar uma base sólida para adição de novas funcionalidades no futuro.
@@ -22,7 +19,7 @@ O Jogo da Velha é um jogo de tabuleiro clássico para dois jogadores. Este proj
 # Tecnologias Utilizadas
 - Linguagem: Java (versão 8 ou superior).
 - Paradigma: Orientação a Objetos (POO).
-- Ambiente de Desenvolvimento: IntelliJ IDEA / Eclipse (recomendado).
+- Ambiente de Desenvolvimento: Visual Studio Code.
 - Execução: Linha de comando (Terminal).
 
 # Estrutura do Projeto
@@ -45,10 +42,6 @@ O projeto foi organizado em diferentes classes para promover a modularidade:
 - Tabuleiro dinâmico:
   - Exibição do estado do jogo a cada turno.
  
-# Como Executar
-## Pré-requisitos
-- Ter o Java JDK instalado (versão 8 ou superior).
-- Um editor de texto ou IDE.
 
 # Próximos Passos
 - [ ] Adicionar um modo contra a inteligência artificial.
