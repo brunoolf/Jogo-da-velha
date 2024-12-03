@@ -1,5 +1,5 @@
 # Jogo da Velha - Modularizado
-Este é um projeto modularizado do clássico Jogo da Velha (Tic-Tac-Toe), desenvolvido em Java. Ele aplica princípios de boas práticas de programação, como separação de responsabilidades, encapsulamento e padrões de design. O objetivo do projeto é demonstrar a evolução de um sistema monolítico simples para uma aplicação mais organizada e escalável.
+Este é um projeto modularizado do clássico Jogo da Velha, desenvolvido em Java. Ele aplica princípios de boas práticas de programação, como separação de responsabilidades, encapsulamento e padrões de design. O objetivo do projeto é demonstrar a evolução de um sistema monolítico simples para uma aplicação mais organizada e escalável.
 
 # Índice
 - [Visão Geral](#visão-geral)
@@ -45,9 +45,9 @@ O projeto foi organizado em diferentes classes para promover a modularidade:
 
 # Próximos Passos
 - [ ] Adicionar um modo contra a inteligência artificial.
-- [ ] Implementar uma interface gráfica (GUI) usando JavaFX ou Swing.
+- [ ] Implementar uma interface gráfica (GUI).
 - [ ] Adicionar suporte para ranking de jogadores (com persistência de dados).
 - [ ] Suporte a partidas online (multiplayer).
-
-
+</br>
+</br>
 ### Desenvolvido por Bruno
